@@ -1,4 +1,4 @@
-# Nombre final del curso
+# Domina Ruby: Strings, Arrays y Hashes
 
 Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
@@ -42,7 +42,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Carla Urrea Stabile**
 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
 
