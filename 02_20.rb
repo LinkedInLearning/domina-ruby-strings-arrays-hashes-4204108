@@ -1,8 +1,10 @@
-# combinar hashes 
+# frozen_string_literal: true
+
+# combinar hashes
 
 mascotas_carla = {
   dasha: { tipo: :perro, raza: nil, edad: 8 },
-  felipe: { tipo: :gato, raza: 'siames', edad: 2 },
+  felipe: { tipo: :gato, raza: 'siames', edad: 2 }
 }
 
 mascotas_chris = {
@@ -12,10 +14,10 @@ mascotas_chris = {
 
 puts mascotas_carla.merge(mascotas_chris)
 
-# separar por dueño 
+# separar por dueño
 
 mascotas = {
-  carla: mascotas_carla, 
+  carla: mascotas_carla,
   chris: mascotas_chris
 }
 

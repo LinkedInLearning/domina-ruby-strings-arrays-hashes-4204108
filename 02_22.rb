@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # convertir hash a json
 
 require 'json'
