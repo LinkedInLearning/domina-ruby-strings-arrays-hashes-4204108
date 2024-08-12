@@ -1,11 +1,12 @@
-# concatenar strings 
+# frozen_string_literal: true
 
-primera = "hola que tal"
-segunda = "estas?"
+# concatenar strings
 
-puts primera + segunda 
+primera = 'hola que tal'
+segunda = 'estas?'
+
+puts primera + segunda
 
 puts primera.concat(segunda)
 
 puts "#{primera} #{segunda}"
-

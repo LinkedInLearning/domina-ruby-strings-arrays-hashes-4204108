@@ -1,9 +1,11 @@
-# borrar los ultimos N caracteres de una string 
+# frozen_string_literal: true
 
-string = "esta frase tiene sentido si elimino la ultima parte?"
+# borrar los ultimos N caracteres de una string
 
-# n = 1 
-puts string.chop 
+string = 'esta frase tiene sentido si elimino la ultima parte?'
+
+# n = 1
+puts string.chop
 
 # n = 2
 puts string.chop.chop

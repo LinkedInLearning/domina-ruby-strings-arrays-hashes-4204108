@@ -1,14 +1,16 @@
-# aprende a usar symbols 
+# frozen_string_literal: true
+
+# aprende a usar symbols
 
 # strings se usan para guardar datos
 # symbols se usan como identificadores + usan menos memoria
 
-puts "prueba.object_id, muestra diferents IDs (ocupa diferentes espacios en memoria)"
-puts "prueba".object_id
-puts "prueba".object_id
-puts "prueba".object_id
+puts 'prueba.object_id, muestra diferents IDs (ocupa diferentes espacios en memoria)'
+puts 'prueba'.object_id
+puts 'prueba'.object_id
+puts 'prueba'.object_id
 
-puts ":prueba.object_id, muestra el mismo ID, es un objeto immutable"
+puts ':prueba.object_id, muestra el mismo ID, es un objeto immutable'
 puts :prueba.object_id
 puts :prueba.object_id
 puts :prueba.object_id

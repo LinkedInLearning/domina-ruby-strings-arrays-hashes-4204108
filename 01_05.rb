@@ -1,7 +1,9 @@
-# reemplazar substring dentro de otra 
+# frozen_string_literal: true
 
-plantilla = "Hola <nombre>!, encantada de conocerte <nombre>"
+# reemplazar substring dentro de otra
 
-plantilla.gub!("<nombre>", "Carla")
+plantilla = 'Hola <nombre>!, encantada de conocerte <nombre>'
+
+plantilla.gub!('<nombre>', 'Carla')
 
 puts plantilla
