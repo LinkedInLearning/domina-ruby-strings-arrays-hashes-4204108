@@ -1,6 +1,8 @@
-# unir array en un string 
+# frozen_string_literal: true
 
-abc = ["a", "b", "c", "d", "e", "f", "g", "h"]
+# unir array en un string
 
-puts abc.join("")
+abc = %w[a b c d e f g h]
+
+puts abc.join('')
 puts abc.reduce(:+)
