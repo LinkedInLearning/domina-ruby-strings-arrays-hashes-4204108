@@ -26,6 +26,9 @@ personas_mascotas = {
 
 personas_mascotas.each do |persona, mascotas|
   puts "#{persona} -> #{mascotas}"
+end
 
+for persona, mascotas in personas_mascotas do 
   puts "#{persona} -> #{mascotas}"
 end
+
