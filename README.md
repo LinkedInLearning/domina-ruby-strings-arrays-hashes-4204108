@@ -1,6 +1,6 @@
 # Domina Ruby: Strings, Arrays y Hashes
 
-Este es el repositorio del curso de LinkedIn Learning ` Domina Ruby: Strings, Arrays y Hashes`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Ruby: Strings, Arrays y Hashes`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![ Domina Ruby: Strings, Arrays y Hashes][lil-thumbnail-url] 
 
@@ -31,7 +31,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-ruby-strings-arrays-y-hashes
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHmaKP1QcgCaA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727770363094?e=2147483647&v=beta&t=SOtgFHjAX2Tx__k1yVHL-OwLvBBX0-tqJg9bHKmeX6s
 
 [1]: # (End of ES-Instruction ###############################################################################################)
