@@ -1,11 +1,82 @@
-Copyright 2021 LinkedIn Corporation
+Copyright 2024 LinkedIn Corporation
 All Rights Reserved.
 
 Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+**ast**  
+[https://rubygems.org/gems/ast](https://rubygems.org/gems/ast)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**rainbow**  
+[https://rubygems.org/gems/rainbow](https://rubygems.org/gems/rainbow)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**ruby-progressbar**  
+[https://rubygems.org/gems/ruby-progressbar](https://rubygems.org/gems/ruby-progressbar)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**language_server-protocol**  
+[https://rubygems.org/gems/language_server-protocol](https://rubygems.org/gems/language_server-protocol)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**unicode-display_width**  
+[https://rubygems.org/gems/unicode-display_width](https://rubygems.org/gems/unicode-display_width)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**strscan**  
+[https://rubygems.org/gems/strscan](https://rubygems.org/gems/strscan)  
+License: BSD-2-Clause OR (BSD-2-Clause AND Ruby)  
+[https://opensource.org/licenses/BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause)  
+-------------------  
+**json**  
+[https://rubygems.org/gems/json](https://rubygems.org/gems/json)  
+License: Ruby OR (BSD-2-Clause AND Ruby)  
+[https://opensource.org/licenses/BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause)  
+-------------------  
+**regexp_parser**  
+[https://rubygems.org/gems/regexp_parser](https://rubygems.org/gems/regexp_parser)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**racc**  
+[https://rubygems.org/gems/racc](https://rubygems.org/gems/racc)  
+License: BSD-2-Clause OR (BSD-2-Clause AND Ruby)  
+[https://opensource.org/licenses/BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause)  
+-------------------  
+**rubocop**  
+[https://rubygems.org/gems/rubocop](https://rubygems.org/gems/rubocop)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**rubocop-ast**  
+[https://rubygems.org/gems/rubocop-ast](https://rubygems.org/gems/rubocop-ast)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**parser**  
+[https://rubygems.org/gems/parser](https://rubygems.org/gems/parser)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**parallel**  
+[https://rubygems.org/gems/parallel](https://rubygems.org/gems/parallel)  
+License: MIT  
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+-------------------  
+**rexml**  
+[https://rubygems.org/gems/rexml](https://rubygems.org/gems/rexml)  
+License: BSD-2-Clause  
+[https://opensource.org/licenses/BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause)  
+-------------------  
+
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
